@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Topic Modeling Docs",
   description: "Documentation for Topic Modeling Project",
-  base: '/', // Assuming this is your repository name
+  base: '/', 
   themeConfig: {
     logo: '/logo.png',
     nav: [
@@ -19,12 +19,12 @@ export default defineConfig({
             { text: 'Getting Started', link: '/guide/getting-started' },
             { text: 'Installation', link: '/guide/installation' },
             { text: 'Preprocessing', link: '/guide/preprocessing' },
-            { text: 'Filtering', link: '/guide/filtering' }, // Fixed path
-            { text: 'Training', link: '/guide/training' }, // Fixed path
-            { text: 'Visualization', link: '/guide/visualization' }, // Fixed path
-            { text: 'TopicModeler', link: '/guide/TopicModeler' }, // Fixed path
-            { text: 'Coherences', link: '/guide/coherences' }, // Fixed path
-            // Fixed path
+            { text: 'Filtering', link: '/guide/filtering' }, 
+            { text: 'Training', link: '/guide/training' }, 
+            { text: 'Visualization', link: '/guide/visualization' }, 
+            { text: 'TopicModeler', link: '/guide/TopicModeler' }, 
+            { text: 'Coherences', link: '/guide/coherences' }, 
+          
           ]
         }
       ],

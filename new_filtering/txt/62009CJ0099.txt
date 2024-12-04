@@ -1,0 +1,7 @@
+Article 30(2) of Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on universal service and
+            users’ rights relating to electronic communications networks and services (Universal Service Directive) is to be interpreted
+            as obliging the national regulatory authority to take account of the costs incurred by mobile telephone network operators
+            in implementing the number portability service when it assesses whether the direct charge to subscribers for the use of that
+            service is a disincentive. However, it retains the power to fix the maximum amount of that charge levied by operators at a
+            level below the costs incurred by them, when a charge calculated only on the basis of those costs is liable to dissuade users
+            from making use of the portability facility.

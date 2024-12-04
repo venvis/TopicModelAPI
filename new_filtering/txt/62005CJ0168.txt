@@ -1,0 +1,4 @@
+Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts must be interpreted as meaning that a national
+            court seised of an action for annulment of an arbitration award must determine whether the arbitration agreement is void and
+            annul that award where that agreement contains an unfair term, even though the consumer has not pleaded that invalidity in
+            the course of the arbitration proceedings, but only in that of the action for annulment.

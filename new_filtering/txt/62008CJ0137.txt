@@ -1,0 +1,12 @@
+The first paragraph of Article 23 of the Statute of the Court of Justice does not preclude a provision of national law which
+            provides that the court which initiates a preliminary reference procedure is at the same time to inform, of its own motion,
+            the Minister with responsibility for Justice in the Member State concerned. 
+Article 267 TFEU must be interpreted as meaning that the jurisdiction of the Court of Justice of the European Union extends
+            to the interpretation of the concept of ‘unfair term’ used in Article 3(1) of Council Directive 93/13/EEC of 5 April 1993
+            on unfair terms in consumer contracts and in the annex thereto, and to the criteria which the national court may or must apply
+            when examining a contractual term in the light of the provisions of that Directive, bearing in mind that it is for that court
+            to determine, in the light of those criteria, whether a particular contractual term is actually unfair in the circumstances
+            of the case. 
+The national court must investigate of its own motion whether a term conferring exclusive territorial jurisdiction in a contract
+            concluded between a seller or supplier and a consumer, which is the subject of a dispute before it, falls within the scope
+            of Directive 93/13 and, if it does, assess of its own motion whether such a term is unfair.

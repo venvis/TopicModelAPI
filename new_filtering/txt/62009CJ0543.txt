@@ -1,0 +1,15 @@
+Article 25(2) of Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on universal service and
+            users’ rights relating to electronic communications networks and services (Universal Service Directive) must be interpreted
+            as not precluding national legislation under which undertakings assigning telephone numbers to end-users must make available
+            to undertakings whose activity consists in providing publicly available directory enquiry services and directories not only
+            data relating to their own subscribers but also data in their possession relating to subscribers of third-party undertakings.
+Article 12 of Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing
+            of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic
+            communications) must be interpreted as not precluding national legislation under which an undertaking publishing public directories
+            must pass personal data in its possession relating to subscribers of other telephone service providers to a third-party undertaking
+            whose activity consists in publishing a printed or electronic public directory or making such directories obtainable through
+            directory enquiry services, and under which the passing on of those data is not conditional on renewed consent from the subscribers,
+            provided, however, that those subscribers have been informed, before the first inclusion of their data in a public directory,
+            of the purpose of that directory and of the fact that those data could be communicated to another telephone service provider
+            and that it is guaranteed that those data will not, once passed on, be used for purposes other than those for which they were
+            collected with a view to their first publication.

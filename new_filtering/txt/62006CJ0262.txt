@@ -1,0 +1,8 @@
+The first paragraph of Article 27 of Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on
+            a common regulatory framework for electronic communications networks and services (Framework Directive) and Article 16(1)(a)
+            of Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on universal service and users’ rights
+            relating to electronic communications networks and services (Universal Service Directive) must be interpreted as meaning that
+            a statutory requirement for the approval of tariffs for the supply of retail voice telephony services provided by undertakings
+            with a dominant position in that market, such as that provided for in Paragraph 25 of the Law on Telecommunications (Telekommunikationsgesetz)
+            of 25 July 1996, enacted by national law and preceding the regulatory framework resulting from those directives, together
+            with administrative measures confirming that requirement, must be temporarily maintained.

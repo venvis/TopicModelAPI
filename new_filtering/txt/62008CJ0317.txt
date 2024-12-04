@@ -1,0 +1,12 @@
+Article 34 of Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on Universal Service and
+            users’ rights relating to electronic communications networks and services (Universal Service Directive) must be interpreted
+            as not precluding legislation of a Member State under which the admissibility before the courts of actions relating to electronic
+            communications services between end-users and providers of those services, concerning the rights conferred by that directive,
+            is conditional upon an attempt to settle the dispute out of court. 
+Nor do the principles of equivalence and effectiveness or the principle of effective judicial protection preclude national
+            legislation which imposes, in respect of such disputes, prior implementation of an out-of-court settlement procedure, provided
+            that that procedure does not result in a decision which is binding on the parties, that it does not cause a substantial delay
+            for the purposes of bringing legal proceedings, that it suspends the period for the time-barring of claims and that it does
+            not give rise to costs – or gives rise to very low costs – for the parties, and only if electronic means is not the only means
+            by which the settlement procedure may be accessed and interim measures are possible in exceptional cases where the urgency
+            of the situation so requires.

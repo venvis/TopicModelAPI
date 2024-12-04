@@ -1,0 +1,50 @@
+Where goods located in a third State, which bear a trade mark registered in a Member State of the European Union or a Community
+            trade mark and have not previously been put on the market in the European Economic Area or, in the case of a Community trade
+            mark, in the European Union, (i) are sold by an economic operator on an online marketplace without the consent of the trade
+            mark proprietor to a consumer located in the territory covered by the trade mark or (ii) are offered for sale or advertised
+            on such a marketplace targeted at consumers located in that territory, the trade mark proprietor may prevent that sale, offer
+            for sale or advertising by virtue of the rules set out in Article 5 of First Council Directive 89/104/EEC of 21 December 1988
+            to approximate the laws of the Member States relating to trade marks, as amended by the Agreement on the European Economic
+            Area of 2 May 1992, or in Article 9 of Council Regulation (EC) No 40/94 of 20 December 1993 on the Community trade mark. It
+            is the task of the national courts to assess on a case-by-case basis whether relevant factors exist, on the basis of which
+            it may be concluded that an offer for sale or an advertisement displayed on an online marketplace accessible from the territory
+            covered by the trade mark is targeted at consumers in that territory.
+Where the proprietor of a trade mark supplies to its authorised distributors items bearing that mark, intended for demonstration
+            to consumers in authorised retail outlets, and bottles bearing the mark from which small quantities can be taken for supply
+            to consumers as free samples, those goods, in the absence of any evidence to the contrary, are not put on the market within
+            the meaning of Directive 89/104 and Regulation No 40/94.
+Article 5 of Directive 89/104 and Article 9 of Regulation No 40/94 must be interpreted as meaning that the proprietor of a
+            trade mark may, by virtue of the exclusive right conferred by the mark, oppose the resale of goods such as those at issue
+            in the main proceedings, on the ground that the person reselling the goods has removed their packaging, where the consequence
+            of that removal is that essential information, such as information relating to the identity of the manufacturer or the person
+            responsible for marketing the cosmetic product, is missing. Where the removal of the packaging has not resulted in the absence
+            of that information, the trade mark proprietor may nevertheless oppose the resale of an unboxed perfume or cosmetic product
+            bearing his trade mark, if he establishes that the removal of the packaging has damaged the image of the product and, hence,
+            the reputation of the trade mark.
+On a proper construction of Article 5(1)(a) of Directive 89/104 and Article 9(1)(a) of Regulation No 40/94, the proprietor
+            of a trade mark is entitled to prevent an online marketplace operator from advertising – on the basis of a keyword which is
+            identical to his trade mark and which has been selected in an internet referencing service by that operator – goods bearing
+            that trade mark which are offered for sale on the marketplace, where the advertising does not enable reasonably well-informed
+            and reasonably observant internet users, or enables them only with difficulty, to ascertain whether the goods concerned originate
+            from the proprietor of the trade mark or from an undertaking economically linked to that proprietor or, on the contrary, originate
+            from a third party.
+The operator of an online marketplace does not ‘use’ – for the purposes of Article 5 of Directive 89/104 or Article 9 of Regulation
+            No 40/94 – signs identical with or similar to trade marks which appear in offers for sale displayed on its site.
+Article 14(1) of Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects
+            of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’)
+            must be interpreted as applying to the operator of an online marketplace where that operator has not played an active role
+            allowing it to have knowledge or control of the data stored. 
+The operator plays such a role when it provides assistance which entails, in particular, optimising the presentation of the
+            offers for sale in question or promoting them.
+Where the operator of the online marketplace has not played an active role within the meaning of the preceding paragraph and
+            the service provided falls, as a consequence, within the scope of Article 14(1) of Directive 2000/31, the operator none the
+            less cannot, in a case which may result in an order to pay damages, rely on the exemption from liability provided for in that
+            provision if it was aware of facts or circumstances on the basis of which a diligent economic operator should have realised
+            that the offers for sale in question were unlawful and, in the event of it being so aware, failed to act expeditiously in
+            accordance with Article 14(1)(b) of Directive 2000/31.
+The third sentence of Article 11 of Directive 2004/48/EC of the European Parliament and of the Council of 29 April 2004 on
+            the enforcement of intellectual property rights must be interpreted as requiring the Member States to ensure that the national
+            courts with jurisdiction in relation to the protection of intellectual property rights are able to order the operator of an
+            online marketplace to take measures which contribute, not only to bringing to an end infringements of those rights by users
+            of that marketplace, but also to preventing further infringements of that kind. Those injunctions must be effective, proportionate,
+            and dissuasive and must not create barriers to legitimate trade.

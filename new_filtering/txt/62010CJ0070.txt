@@ -1,0 +1,22 @@
+Directives:
+2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services,
+            in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’);
+2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright
+            and related rights in the information society;
+2004/48/EC of the European Parliament and of the Council of 29 April 2004 on the enforcement of intellectual property rights
+            ; 
+95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to
+            the processing of personal data and on the free movement of such data; and 
+2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the
+            protection of privacy in the electronic communications sector (Directive on privacy and electronic communications), 
+read together and construed in the light of the requirements stemming from the protection of the applicable fundamental rights,
+            must be interpreted as precluding an injunction made against an internet service provider which requires it to install a system
+            for filtering
+all electronic communications passing via its services, in particular those involving the use of peer-to-peer software; 
+which applies indiscriminately to all its customers; 
+as a preventive measure; 
+exclusively at its expense; and
+for an unlimited period, 
+which is capable of identifying on that provider’s network the movement of electronic files containing a musical, cinematographic
+            or audio-visual work in respect of which the applicant claims to hold intellectual-property rights, with a view to blocking
+            the transfer of files the sharing of which infringes copyright. 

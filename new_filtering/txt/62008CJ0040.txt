@@ -1,0 +1,7 @@
+Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts must be interpreted as meaning that a national
+            court or tribunal hearing an action for enforcement of an arbitration award which has become final and was made in the absence
+            of the consumer is required, where it has available to it the legal and factual elements necessary for that task, to assess
+            of its own motion whether an arbitration clause in a contract concluded between a seller or supplier and a consumer is unfair,
+            in so far as, under national rules of procedure, it can carry out such an assessment in similar actions of a domestic nature.
+            If that is the case, it is for that court or tribunal to establish all the consequences thereby arising under national law,
+            in order to ensure that the consumer is not bound by that clause.
